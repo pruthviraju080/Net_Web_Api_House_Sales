@@ -1,0 +1,5 @@
+c:\users\pcham\onedrive\documents\visual studio 2015\Projects\Sample_NET_API_Home_Sales\Sample_NET_API_Home_Sales.Application\bin\Debug\Sample_NET_API_Home_Sales.Application.dll
+c:\users\pcham\onedrive\documents\visual studio 2015\Projects\Sample_NET_API_Home_Sales\Sample_NET_API_Home_Sales.Application\bin\Debug\Sample_NET_API_Home_Sales.Application.pdb
+c:\users\pcham\onedrive\documents\visual studio 2015\Projects\Sample_NET_API_Home_Sales\Sample_NET_API_Home_Sales.Application\obj\Debug\Sample_NET_API_Home_Sales.Application.csprojResolveAssemblyReference.cache
+c:\users\pcham\onedrive\documents\visual studio 2015\Projects\Sample_NET_API_Home_Sales\Sample_NET_API_Home_Sales.Application\obj\Debug\Sample_NET_API_Home_Sales.Application.dll
+c:\users\pcham\onedrive\documents\visual studio 2015\Projects\Sample_NET_API_Home_Sales\Sample_NET_API_Home_Sales.Application\obj\Debug\Sample_NET_API_Home_Sales.Application.pdb
